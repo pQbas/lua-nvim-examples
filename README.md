@@ -11,6 +11,6 @@ Same approach can be used for every file in the current repo.
 
 
 ## Observations
-Use the `luafile` command to apply changes doesn't have a global efect in your nvim config.
+Use the `luafile` command to apply changes doesn't affect your nvim config.
 It's a safety way to test or run small examples as proposed on this repository.
 
